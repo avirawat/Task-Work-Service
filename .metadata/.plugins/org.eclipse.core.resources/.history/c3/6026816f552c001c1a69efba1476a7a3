@@ -1,0 +1,11 @@
+package com.easyservice.service;
+
+public class TaskIdNotFoundException extends Exception {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
+	
+}
